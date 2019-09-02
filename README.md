@@ -1,4 +1,4 @@
-HOW TO RUN:
+# HOW TO RUN:
 
 - 1.) Load terminal
 - 2.) Get git (sudo apt install git (debian)) (sudo rpm install git (gnome))
